@@ -1,5 +1,5 @@
 <h1 align="center">Sadek</h1>
-<h4 align="center">"[i don't currenty have a tele](https://zrsadek.netlify.app)"/</h4>
+<h4 align="center">"i don't currenty have a tele"/</h4>
 
 ![](https://komarev.com/ghpvc/?username=zrSadek)
 
