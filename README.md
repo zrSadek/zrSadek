@@ -1,4 +1,4 @@
-<h1 align="center">Sadek https://komarev.com/ghpvc/?username=zrSadek</h1>
+<h1 align="center">Sadek</h1>
 <h4 align="center">i don't currenty have a tele/</h4>
 <h5 align="center">https://zrsadek.netlify.app/</h5>
 
