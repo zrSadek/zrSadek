@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">vividsec</h1>
+<h4 align="center">i don't currenty have a tele</h4>
 
-<!--
-**zrSadek/zrSadek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![]https://komarev.com/ghpvc/?username=zrSadek
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/zrSadek">
+    <img src="[https://discord.c99.nl/widget/theme-4/949067041388789791.png](https://komarev.com/ghpvc/?username=zrSadek)"/>
+     </a>
+  </p>
+  
+# Statistics
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=zrSadek&show_icons=true&theme=dark" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrSadek&theme=dark" />
