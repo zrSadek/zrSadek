@@ -1,7 +1,6 @@
 <h1 align="center">Sadek</h1>
 <h4 align="center">i don't currenty have a tele</h4>
-
-![]https://komarev.com/ghpvc/?username=zrSadek
+<h4 align="center">https://komarev.com/ghpvc/?username=zrSadek</h4>
 
 
 <p align="center">
