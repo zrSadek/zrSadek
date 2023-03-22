@@ -13,3 +13,8 @@
 Currently learning JavaScript
 <p align="center">
     <a href="https://discord.gg/malaya">Discord Server</a>
+    
+ # Statistics
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=zrSadek&show_icons=true&theme=dark" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrSadek&theme=dark" />
+
