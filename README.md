@@ -12,7 +12,7 @@
 <p align="center">
 Currently learning JavaScript
 <p align="center">
-    <a href="https://discord.gg/malaya">Discord Server</a>
+    <a href="https://discord.gg/malaya">Discord Server | </a>
     <a href="https://zrsadek.netlify.app/">Site</a>
     
  # Statistics
