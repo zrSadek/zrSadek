@@ -7,12 +7,12 @@
 <img src="https://komarev.com/ghpvc/?username=zrSadek">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/513066398847729696.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/345522651407581184.png"/>
 </p>
 <p align="center">
 Currently learning JavaScript
 <p align="center">
-    <a href="https://discord.gg/malaya">Discord Server | </a>
+    <a href="https://discord.gg/sina">Discord Server | </a>
     <a href="https://zrsadek.netlify.app/">Site</a>
     
  # Statistics
