@@ -16,6 +16,6 @@ Currently learning JavaScript
     <a href="https://sadekk.netlify.app/">Site</a>
     
  # Statistics
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=zrSadek&show_icons=true&theme=tokyonight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=zrSadek&show_icons=true&theme=tokyonight" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrSadek&theme=tokyonight" />
