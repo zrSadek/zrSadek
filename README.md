@@ -9,7 +9,7 @@
   <img height="25" src="https://img.shields.io/github/stars/zrSadek?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/> 
 </p> 
 <h3 align="center">Current Known Languages: (best ➜ least)</h5> 
-<p align="center"> 
+<p align="center">  
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 
