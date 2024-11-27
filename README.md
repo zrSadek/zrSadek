@@ -1,14 +1,21 @@
+<div align="center">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233e72ed?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-%233776ab?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Go" src="https://img.shields.io/badge/Go-%2300add8?style=for-the-badge&logo=go&logoColor=white" />
+</div>
 
-<h1 align="center">Sadek</h1>
-<a href="https://github.com/zrSadek"></a>
-
-<p align="center">
-  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=zrSadek&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
-  <img height="25" src="https://img.shields.io/github/followers/zrSadek?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/> 
-  <img height="25" src="https://img.shields.io/github/stars/zrSadek?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/> 
-</p> 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=zrSadek&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
-</p>
+<div align="center">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-%23000000?style=for-the-badge&logo=debian&logoColor=white" />
+    <img alt="Aqua IDE" src="https://img.shields.io/badge/Aqua%20IDE-%23000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zrSadek&show_icons=true&bg_color=1C1919&title_color=FF6D64&text_color=888080&icon_color=FF6D64&hide_border=true&border_radius=0">
+    <br>
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zrSadek&theme=dark&hide_border=true&background=1C1919&dates=888080&ring=FF6D64&fire=FF6D64&stroke=332F2F&currStreakNum=FF6D64&currStreakLabel=FF6D64">
+</div>
